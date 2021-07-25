@@ -26,7 +26,7 @@ This is a Gif of the expected behavior.
 
 ![mock-up](./assets/img/Portfolio.gif)
 
-Credits
+## Credits
 * w3schools.com 
 * StackOverflaw 
 * BootCamp Course
