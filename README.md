@@ -4,11 +4,11 @@ Portfolio:
 
 The deployed Webpage is a simple web application to use as my web developer resume, it contain a brief introduction about myself, a portfolio with the current web application that I developed during my Bootcamp course as well as my resume and a link to dowload it.
 
-*URL of the Web page:
+* URL of the Web page:
 
 https://tristanlibeau.github.io/Updated-Portfolio/
 
-*URL of my Repository:
+* URL of my Repository:
 
 https://github.com/TristanLibeau/Updated-Portfolio
 
