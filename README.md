@@ -20,11 +20,13 @@ https://github.com/TristanLibeau/Updated-Portfolio
 * My personal details are present on the footer as links, that will directly contact me once you click on it.
 * The web application as been using bootstrap reposive system and is working on destop, tablet and mobile.
 
-Mock-Up This is a Gif of the expected behavior.
+## Mock-Up 
+
+This is a Gif of the expected behavior.
 
 ![mock-up](./assets/img/Portfolio.gif)
 
-Credits
+## Credits
 * w3schools.com 
 * StackOverflaw 
 * BootCamp Course
